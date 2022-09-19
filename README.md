@@ -45,6 +45,9 @@
 
 - Ansible
 
+![image](https://user-images.githubusercontent.com/95496224/191106713-87cfffdb-942d-4a85-8257-f756fb5628f5.png)
+
+
 *Приложить вывод команд установленных версий каждой из программ, оформленный в markdown.*
 
 
