@@ -38,6 +38,8 @@
 
 ![image](https://user-images.githubusercontent.com/95496224/191066571-4aa18caa-727d-4aef-aa3c-d678d94efba6.png)
 
+![image](https://user-images.githubusercontent.com/95496224/191095203-7561918c-50a0-4c05-a11e-982f2e674d0e.png)
+
 - Ansible
 
 *Приложить вывод команд установленных версий каждой из программ, оформленный в markdown.*
